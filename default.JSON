@@ -18,7 +18,7 @@
                     "layout": 1,
                     "buttontext": "<TextStyle.Red>1 Box layout</>",
                     "title1": "Welcome to EU-PvPvE-SmallTribes [Mod] 2Man x10!",
-                    "text1": "Your text could be here.\n\nBTW, you can add as many tabs/links as you want, just follow the syntax... Until it doesnt fit anymore\n\nCheckout the available colors and the syntax you can use to colorize the text for the buttons, titles and general text:\n\n<TextStyle.Red><TextStyle.Red>Red Text</></>\n<TextStyle.Green><TextStyle.Green>Green Text</></>\n<TextStyle.Blue><TextStyle.Blue>Blue Text</></>\n<TextStyle.Yellow><TextStyle.Yellow>Yellow Text</></>\n<TextStyle.Orange><TextStyle.Orange>Orange Text</></>\n<TextStyle.Violet><TextStyle.Violet>Violet Text</></>\n<TextStyle.White><TextStyle.White>White Text</></>\n<TextStyle.Black><TextStyle.Black>Black Text</></> < Yes its Black Text on a Black background\n",
+                    "text1": "This is a PvPvE, Noob friendly Server with enjoyable Gameplay.\n\nLets talk about some Rules!... 
                     "imageurl": "https://i.imgur.com/mGt3cAF.png"
                 }
             },
